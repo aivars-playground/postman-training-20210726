@@ -3,6 +3,9 @@ After cloning the repo, make sure to run `npm install` in the root of the projec
 
 ## Running the application
 From the command line, in the root of the project, run `npm run start:dev` this will start the server on port 3000
+  
+or different environment `npm run start:test`
+on port 3030
 
 ## Rest
 
